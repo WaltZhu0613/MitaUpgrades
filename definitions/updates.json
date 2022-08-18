@@ -3,35 +3,35 @@
     "windows": {
       "open-url": "",
       "latest-version": "2.0",
-      "download-url": "\\PC20050210\Share\MiTA_II\SimpleUpdater_Sample\download\QSU Tutorial.exe",
+      "download-url": "https://github.com/WaltZhu0613/MitaUpgrades/blob/main/download/download.txt",
       "changelog": "This is an example changelog for Windows. Go on...",
       "mandatory": true
     },
     "osx": {
       "open-url": "",
       "latest-version": "2.0",
-      "download-url": "\\PC20050210\Share\MiTA_II\SimpleUpdater_Sample\download\QSU Tutorial.exe",
+      "download-url": "https://github.com/WaltZhu0613/MitaUpgrades/blob/main/download/download.txt",
       "changelog": "This is an example changelog for Mac OS X. Go on...",
       "mandatory": true
     },
     "linux": {
       "open-url": "",
       "latest-version": "2.0",
-      "download-url": "\\PC20050210\Share\MiTA_II\SimpleUpdater_Sample\download\QSU Tutorial.exe",
+      "download-url": "https://github.com/WaltZhu0613/MitaUpgrades/blob/main/download/download.txt",
       "changelog": "This is an example changelog for Linux. Go on...",
       "mandatory": true
     },
     "ios": {
       "open-url": "",
       "latest-version": "2.0",
-      "download-url": "\\PC20050210\Share\MiTA_II\SimpleUpdater_Sample\download\QSU Tutorial.exe",
+      "download-url": "https://github.com/WaltZhu0613/MitaUpgrades/blob/main/download/download.txt",
       "changelog": "This is an example changelog for iOS. Go on...",
       "mandatory": true
     },
     "android": {
       "open-url": "",
       "latest-version": "2.0",
-      "download-url": "\\PC20050210\Share\MiTA_II\SimpleUpdater_Sample\download\QSU Tutorial.exe",
+      "download-url": "https://github.com/WaltZhu0613/MitaUpgrades/blob/main/download/download.txt",
       "changelog": "This is an example changelog for Android. Go on...",
       "mandatory": true
     }
